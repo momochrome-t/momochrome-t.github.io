@@ -1,5 +1,5 @@
 ---
 layout: default  
-title: momochrome space
+title: About
 ---
 ももいろ空間です。
